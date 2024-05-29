@@ -172,7 +172,13 @@ span{
 .box1 {
     position: relative;
 }
-
+a{
+    text-decoration: none;
+    color:  #007185;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .more {
     position: absolute;
     bottom: 4px; /* Adjust this value as needed */
@@ -183,7 +189,13 @@ span{
 .box2 {
     position: relative;
 }
-
+a{
+    text-decoration: none;
+    color:  #007185;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .more {
     position: absolute;
     bottom: 4px; /* Adjust this value as needed */
@@ -194,7 +206,13 @@ span{
 .box3 {
     position: relative;
 }
-
+a{
+    text-decoration: none;
+    color:  #007185;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .more {
     position: absolute;
     bottom: 4px; /* Adjust this value as needed */
@@ -205,7 +223,13 @@ span{
 .box4 {
     position: relative;
 }
-
+a{
+    text-decoration: none;
+    color:  #007185;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .more {
     position: absolute;
     bottom: 4px; /* Adjust this value as needed */
@@ -216,7 +240,13 @@ span{
 .box5 {
     position: relative;
 }
-
+a{
+    text-decoration: none;
+    color:  #007185;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .more {
     position: absolute;
     bottom: 4px; /* Adjust this value as needed */
@@ -227,7 +257,13 @@ span{
 .box6 {
     position: relative;
 }
-
+a{
+    text-decoration: none;
+    color:  #007185;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .more {
     position: absolute;
     bottom: 4px; /* Adjust this value as needed */
@@ -238,7 +274,13 @@ span{
 .box7 {
     position: relative;
 }
-
+a{
+    text-decoration: none;
+    color:  #007185;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .more {
     position: absolute;
     bottom: 4px; /* Adjust this value as needed */
@@ -249,7 +291,13 @@ span{
 .box8 {
     position: relative;
 }
-
+a{
+    text-decoration: none;
+    color:  #007185;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .more {
     position: absolute;
     bottom: 4px; /* Adjust this value as needed */
